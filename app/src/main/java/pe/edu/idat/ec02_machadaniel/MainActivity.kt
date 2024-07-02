@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             Ec02_MachaDanielTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Android02",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
